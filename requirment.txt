@@ -1,0 +1,4 @@
+tensorflow == 2.12.0
+sklearn-pandas == 2.2.0
+matplotlib == 3.7.1
+numpy == 1.24.3
